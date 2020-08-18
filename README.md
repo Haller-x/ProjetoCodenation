@@ -1,5 +1,5 @@
-#Desafio Prático CodeNation
-###Por Germano Yoneda
+# Desafio Prático CodeNation
+### Por Germano Yoneda
 
 Para começar faça o download dos arquivos:
 [Mercado](https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_market.csv.zip)
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 	* Foi realizado dessa forma pela limitação de performance do streamlit*
 
 # Streamlit:
-	- Após executar os jupyter notebooks `preprocessing.ipynb` e `modelo_final.ipynb` digite no terminal:
+- Após executar os jupyter notebooks `preprocessing.ipynb` e `modelo_final.ipynb` digite no terminal:
 ```sh
 streamlit run streamlit_view.py
 ```
